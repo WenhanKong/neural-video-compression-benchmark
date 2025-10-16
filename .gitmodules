@@ -1,0 +1,6 @@
+[submodule "code/DCVC"]
+	path = code/DCVC
+	url = https://github.com/microsoft/DCVC.git
+[submodule "code/RLVC"]
+	path = code/RLVC
+	url = https://github.com/RenYang-home/RLVC.git
