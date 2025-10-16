@@ -1,0 +1,7 @@
+# Ignore output folders
+datasets*/
+results/reconstructed_*/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
